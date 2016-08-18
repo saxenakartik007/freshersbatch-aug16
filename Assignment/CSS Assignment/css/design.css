@@ -1,0 +1,51 @@
+.background {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; 
+    margin-left: -15em; 
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+text-align: center
+}
+
+.center {
+    display:inline-block;
+  
+    width:25%;
+    margin: 0 auto;
+   
+}
+.HeaderBackground{
+	
+ background-color:#262626;
+ width:100%;
+ color :white;
+ padding-bottom:20px
+padding-top:5px;
+margin-top:10px;
+margin-bottom:10px;
+ margin-left:-10px;
+ padding-left:20px;
+ text-align:center;
+ padding-right:20px;
+padding-top: 20px;
+padding-bottom: 20px;
+ 
+}
+.hederchild{
+	color:white;
+	margin-top:20px;
+	
+	margin-bottom:20px;
+	margin-right: 20px;	
+	width :300px;
+}
+.headerbutton{
+	margin-bottom: 30px;
+	width: 150px;
+	text-align:center;
+	height: 50px;
+}

@@ -1,0 +1,215 @@
+*{
+	background-color: 	LightCyan;
+}
+.paracolor1{
+	background-color: LightSteelBlue;
+	
+}
+#heading{
+	background-color: RoyalBlue;
+	padding-bottom: 10px; 
+	font-size: 2.3em;
+	font-family: serif;
+	font-weight: bold;
+	font: candara;
+
+}
+#heading2{
+text-decoration: line-through;
+
+}
+#heading3{
+text-decoration: underline;
+
+}
+#texttype1{
+text-transform: uppercase;
+
+}
+#link {
+   text-decoration: underline;
+color: red;
+		border: solid 2px #ccc;
+
+}
+
+#link:visited {
+    color: green;
+    		border: solid 2px #ccc;
+}
+
+#link:hover {
+    color: hotpink;
+    		border: solid 2px #ccc;
+}
+
+
+#link:active {
+    color: blue;
+    		border: solid 2px #ccc;
+}
+.clm1{
+	width: 100px;
+	border-style: solid ; 
+	 border-width: 1px 1px 1px 1px;
+	 padding-right: 20px;
+	 float: left;
+	 
+}
+.clm2{
+	float :inherit;
+	
+	width: 100px;
+	border-style: solid ;
+	border-left-width:0px; 
+	 border-width: 1px 1px 1px 0px;
+}
+.row{
+	float:left;
+	width: 100%;
+	border-width: 1px 1px 1px 0px;
+}
+.celltype1{
+	background-color:green;
+	width: 100px;
+	color: white;
+	
+}
+.celltype2{
+border-width: 1px 1px 1px 1px;
+
+border-style: solid ; 
+border-color: green;
+}
+#warning{
+	border-color: red; 
+	border-width: 2px;
+	 border-style: solid;
+	font-size: 1.5em;
+	outline-width: 3px;
+	 outline-style: dotted; 
+	 outline-color: green; 
+}
+#border1{
+	border-color: black; 
+	border-width: 4px;
+	 border-style: solid;
+	font-size: 1.5em;
+
+}
+#border2{
+	border-color: black; 
+	border-width: 3px;
+	margin-top: 20px;
+	 border-style: solid;
+	font-size: 1.5em;
+
+}
+#border3{
+	border-color: black; 
+	border-width: 2px;
+		margin-top: 20px;
+	 border-style: solid;
+	font-size: 1.5em;
+
+}
+#header
+ {
+ background-color:#262626;
+ width:100%;
+ height:70px;
+padding-top:5px;
+ margin-left:-10px;
+ padding-left:20px;
+ text-align:center;
+ padding-right:20px;
+ position:fixed;
+ top:0px;
+}
+#header_name{
+	background-color:#262626;
+	font-family: fantasy cursive serif;
+	font-size: 30px;
+colspan:2;
+	color: white;
+position:relative;
+
+	text-align: center;
+transition:font-size 1s ease 0s;
+}
+#header_name:hover{
+	background-color:#262626;
+	color:#ffffff;
+	transition:font-size 1s ease 0s;
+text-shadow:0px 0px 5px #ff0000;
+}
+#menu_container{
+	background-color:#262626;
+	width: 100%
+}
+.menu_button .{
+	color: white;
+	background-color:#262626;
+
+transition:font-size 1s ease 0s;
+}
+.menu_button:hover{
+	color:#ffffff;
+	transition:font-size 1s ease 0s;
+text-shadow:0px 0px 5px #ff0000;
+}
+.menu_link {
+	color: white;
+	
+}
+.menu_link:hover{
+	color:#ffffff;
+	}
+
+
+#Karik_home_image
+{
+	-webkit-box-shadow:0px 0px 50px 30px #514f4f ;
+-moz-box-shadow:0px 0px 50px 30px #514f4f ;
+box-shadow:0px 0px 50px 30px #514f4f ;
+	float:right; 
+	Hspace:30;
+ Vspace:10;
+ width:300px;
+ height:400px;
+ margin-right:200px;
+ margin-left:40px;
+ margin-top: 80px;
+	alt:Kartik's photo; 
+}
+#home_text{
+	text-indent:10%;
+	color:#514f4f 
+	font: arial;
+	size: 3;
+	margin-top:100px;
+	margin-left:100px;
+	margin-right:40px;
+	float: justify;
+}
+#hobbie_head{
+	margin: 100px;
+	color: #535353;
+	font: oblique;
+}
+#hobby_image
+{
+	-webkit-box-shadow:0px 0px 50px 30px #514f4f ;
+-moz-box-shadow:0px 0px 50px 30px #514f4f ;
+box-shadow:0px 0px 50px 30px #514f4f ;
+
+	Hspace:30;
+ Vspace:10;
+ width:100px;
+ height:150px;
+ display:inline;
+ margin-right:20px;
+ margin-left:20x;
+ margin-top: 20px;
+	alt:Kartik's photo; 
+}
